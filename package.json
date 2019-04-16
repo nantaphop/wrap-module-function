@@ -3,11 +3,20 @@
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nantaphop/wrap-module-function.git"
+  },
+  "keywords": [
+    "module",
+    "wrapper",
+    "helper"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "normalize-path": "^3.0.0"
   }
